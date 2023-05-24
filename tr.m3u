@@ -1,5 +1,5 @@
 ﻿#EXTM3U
-#EXTM3U x-tvg-url="https://www.bevy.be/bevyfiles/turkey.xml,https://www.bevy.be/bevyfiles/turkeypremium1.xml,https://www.bevy.be/bevyfiles/turkeypremium2.xml"
+#EXTM3U x-tvg-url="https://www.bevy.be/bevyfiles/turkey.xml"
 
 #EXTINF:-1, tvg-id="24 HD" tvg-logo="http://izmottvsc07.tvplus.com.tr:33200/CPS/images/universal/film/poster/fileEntity/20180508/001300/001300000008479203/1ea9aeb5-254e-4125-9619-6aeaf1ccee07.png" tvg-name="24 HD" group-title="ULUSAL",24
 https://turkmedya-live.ercdn.net/tv24/tv24_720p.m3u8
