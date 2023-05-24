@@ -1,0 +1,101 @@
+﻿#EXTM3U
+#EXTM3U x-tvg-url="https://www.bevy.be/bevyfiles/turkey.xml,https://www.bevy.be/bevyfiles/turkeypremium1.xml,https://www.bevy.be/bevyfiles/turkeypremium2.xml"
+
+#EXTINF:-1, tvg-id="24 HD" tvg-logo="http://izmottvsc07.tvplus.com.tr:33200/CPS/images/universal/film/poster/fileEntity/20180508/001300/001300000008479203/1ea9aeb5-254e-4125-9619-6aeaf1ccee07.png" tvg-name="24 HD" group-title="ULUSAL",24
+https://turkmedya-live.ercdn.net/tv24/tv24_720p.m3u8
+
+#EXTINF:-1, tvg-id="360 HD" tvg-logo="http://izmottvsc07.tvplus.com.tr:33200/CPS/images/universal/film/logo/202007/20200714/202007140149118747y7_op.png" tvg-name="360 HD" group-title="ULUSAL",360
+https://360tv.blutv.com/blutv_360tv_live/live.m3u8
+
+#EXTINF:-1, tvg-id="ATV HD" tvg-logo="http://izmottvsc07.tvplus.com.tr:33200/CPS/images/universal/film/poster/20140406/001300/001300000008526498/c05a58b7-8d29-4b7b-8a66-dadc322d4c0a.png" tvg-name="ATV HD" group-title="ULUSAL",ATV
+https://trkvz-live.daioncdn.net/atv/atv.m3u8
+
+#EXTINF:-1, tvg-id="BEYAZ TV HD" tvg-logo="http://izmottvsc07.tvplus.com.tr:33200/CPS/images/universal/film/poster/20150203/001300/001300000008479064/48e2f21e-2c71-4a63-8b1f-3d105ce57dec.png" tvg-name="BEYAZ TV HD" group-title="ULUSAL",BEYAZ TV
+https://beyaztvdvr.blutv.com/blutv_beyaztv_dvr2/live.m3u8
+
+#EXTINF:-1, tvg-id="CNN TÜRK HD" tvg-logo="http://izmottvsc07.tvplus.com.tr:33200/CPS/images/universal/film/poster/20141015/001300/001300000008479090/2bc3b2ae-9d09-4380-bc32-3e6affca7626.png" tvg-name="CNN TÜRK HD" group-title="HABER",CNNTURK
+https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/track_3_750/playlist.m3u8
+
+#EXTINF:-1, tvg-id="DMAX HD" tvg-logo="http://izmottvsc07.tvplus.com.tr:33200/CPS/images/universal/film/poster/fileEntity/20180317/001300/001300000008479147/9ff9f369-04f3-41a5-8325-ca827fa526f6.png" tvg-name="DMAX HD" group-title="BELGESEL",DMAX
+https://dogus-live.daioncdn.net/dmax/dmax.m3u8
+
+#EXTINF:-1, tvg-id="FOX HD" tvg-logo="http://izmottvsc07.tvplus.com.tr:33200/CPS/images/universal/film/poster/fileEntity/20171018/001300/001300000008656246/9462ac76-569f-48a9-b889-268cfecef56c.png" tvg-name="FOX HD" group-title="ULUSAL",FOX TV
+https://foxtvdvr.blutv.com/blutv_foxtv_dvr2/live.m3u8
+
+#EXTINF:-1, tvg-id="HABER GLOBAL HD" tvg-logo="http://izmottvsc07.tvplus.com.tr:33200/CPS/images/universal/film/logo/202211/20221125/81/20221125094959589je3_op.png" tvg-name="HABER GLOBAL HD" group-title="HABER",HABER GLOBAL
+https://mn-nl.mncdn.com/blutv_haberglobal2/live.m3u8
+
+#EXTINF:-1, tvg-id="HABERTÜRK HD" tvg-logo="http://izmottvsc07.tvplus.com.tr:33200/CPS/images/universal/film/poster/20140406/001300/001300000008479171/d5a426d7-c317-4872-896f-f4a88ceb890c.png" tvg-name="HABERTÜRK HD" group-title="HABER",HABERTURK
+https://ciner-live.daioncdn.net/haberturktv/haberturktv_1080p.m3u8
+
+#EXTINF:-1, tvg-id="HALK TV" tvg-logo="http://izmottvsc07.tvplus.com.tr:33200/CPS/images/universal/film/poster/20140406/001300/001300000008479022/e2e934e9-b0ee-4448-9c55-8bd56ecbc21b.png" tvg-name="HALK TV" group-title="HABER",HALK TV
+https://mn-nl.mncdn.com/blutv_halktv2/live.m3u8
+
+#EXTINF:-1, tvg-id="KANAL 7 HD" tvg-logo="http://izmottvsc07.tvplus.com.tr:33200/CPS/images/universal/film/poster/20141015/001300/001300000008478886/e86bfc54-f774-45c5-ae9d-531af97840a6.png" tvg-name="KANAL 7 HD" group-title="ULUSAL",KANAL 7
+https://kanal7dvr.blutv.com/blutv_kanal7_dvr2/live.m3u8
+
+#EXTINF:-1, tvg-id="KANAL D HD" tvg-logo="http://izmottvsc07.tvplus.com.tr:33200/CPS/images/universal/film/poster/20160607/001300/001300000008478844/12a565d3-1ed5-4494-ab59-5240b24a8229.png" tvg-name="KANAL D HD" group-title="ULUSAL",KANAL D
+https://demiroren-live.daioncdn.net/kanald/kanald_1080p.m3u8
+
+#EXTINF:-1, tvg-id="KRT TV" tvg-logo="http://izmottvsc07.tvplus.com.tr:33200/CPS/images/universal/film/poster/20151001/001300/001300000008479099/3bb76e46-61f8-4daa-b44e-4868ca8c6d70.png" tvg-name="KRT TV" group-title="HABER",KRT TV
+https://krt.blutv.com/blutv_krt_live/live.m3u8
+
+#EXTINF:-1, tvg-id="NTV HD" tvg-logo="http://izmottvsc07.tvplus.com.tr:33200/CPS/images/universal/film/poster/20160628/001300/001300000008479163/0fba7796-32d8-401e-a6e4-b975f081c725.png" tvg-name="NTV HD" group-title="HABER",NTV
+https://dogus-live.daioncdn.net/ntv/ntv.m3u8
+
+#EXTINF:-1, tvg-id="SHOW TV HD" tvg-logo="http://izmottvsc07.tvplus.com.tr:33200/CPS/images/universal/film/poster/20160607/001300/001300000008478870/27965d46-2678-4234-8c8e-b8af4facfbe3.png" tvg-name="SHOW TV HD" group-title="ULUSAL",SHOW TV
+https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
+
+#EXTINF:-1, tvg-id="SÖZCÜ TV" tvg-logo="http://izmottvsc07.tvplus.com.tr:33200/CPS/images/universal/film/logo/202302/20230214/6/202302141144052107df_op.png" tvg-name="SÖZCÜ TV" group-title="HABER",SOZCU TV
+https://mn-nl.mncdn.com/blutv_szctv/live.m3u8
+
+#EXTINF:-1, tvg-id="SPORTS TV HD" tvg-logo="http://izmottvsc07.tvplus.com.tr:33200/CPS/images/universal/film/logo/202102/20210225/1/20210225220257171kgn_op.png" tvg-name="SPORTS TV HD" group-title="SPOR",SPORTS TV
+https://mn-nl.mncdn.com/blutv_sportstv2/live.m3u8
+
+#EXTINF:-1, tvg-id="STAR TV HD" tvg-logo="http://izmottvsc07.tvplus.com.tr:33200/CPS/images/universal/film/poster/20140406/001300/001300000008478854/48fb4dca-51a1-4a47-b9a4-5d01f5979b75.png" tvg-name="STAR TV HD" group-title="ULUSAL",STAR TV
+https://dogus-live.daioncdn.net/startv/startv.m3u8
+
+#EXTINF:-1, tvg-id="TELE1" tvg-logo="http://izmottvsc07.tvplus.com.tr:33200/CPS/images/universal/film/poster/fileEntity/20190524/001300/XTV100001075/51759f75-f3b3-4320-889b-0be4dde1789b.png" tvg-name="TELE1" group-title="HABER",TELE1
+https://tele1dvr.blutv.com/blutv_tele1_dvr2/live.m3u8
+
+#EXTINF:-1, tvg-id="TEVE2 HD" tvg-logo="http://izmottvsc07.tvplus.com.tr:33200/CPS/images/universal/film/poster/20161010/001300/001300000008478957/8e013007-0124-40e1-b071-2c4adfa77636.png" tvg-name="TEVE2 HD" group-title="ULUSAL",TEVE2
+https://demiroren-live.daioncdn.net/teve2/teve2_1080p.m3u8
+
+#EXTINF:-1, tvg-id="TLC" tvg-logo="http://izmottvsc07.tvplus.com.tr:33200/CPS/images/universal/film/poster/20151105/001300/001300000008478933/3cda2c5f-1cb0-4898-96e5-02f27fc724de.png" tvg-name="TLC" group-title="BELGESEL",TLC
+https://tv.ensonhaber.com/tv/tr/tlc/index.m3u8
+
+#EXTINF:-1, tvg-id="TRT1 HD" tvg-logo="http://izmottvsc07.tvplus.com.tr:33200/CPS/images/universal/film/poster/20140406/001300/001300000008526522/11e29c3e-0da1-4ed7-9e61-52cafff46497.png" tvg-name="TRT1 HD" group-title="ULUSAL",TRT 1
+https://tv-trt1-dai.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1, tvg-id="TRT 2 HD" tvg-logo="http://izmottvsc07.tvplus.com.tr:33200/CPS/images/universal/film/poster/fileEntity/20190221/001300/XTV100001019/73220b58-a545-4242-8904-a14f3c04a661.png" tvg-name="TRT 2 HD" group-title="ULUSAL",TRT 2
+https://tv-trt2.medya.trt.com.tr/master_720.m3u8
+
+#EXTINF:-1, tvg-id="TRT BELGESEL HD" tvg-logo="http://izmottvsc07.tvplus.com.tr:33200/CPS/images/universal/film/poster/fileEntity/20181214/001300/001300000008479328/bbdbae05-4a68-4c50-9804-f9676b84fc52.png" tvg-name="TRT BELGESEL HD" group-title="BELGESEL",TRT BELGESEL
+https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
+
+#EXTINF:-1, tvg-id="TRT EBATV İLKOKUL" tvg-logo="http://izmottvsc07.tvplus.com.tr:33200/CPS/images/universal/film/logo/202003/20200325/20200325075756659qej_op.png" tvg-name="TRT EBATV İLKOKUL" group-title="EGITIM",TRT EBA ILKOKUL
+https://tv-e-okul00.medya.trt.com.tr/master_720.m3u8
+
+#EXTINF:-1, tvg-id="TRT EBATV LİSE" tvg-logo="http://izmottvsc07.tvplus.com.tr:33200/CPS/images/universal/film/logo/202003/20200325/202003250808159164ko_op.png" tvg-name="TRT EBATV LİSE" group-title="EGITIM",TRT EBA LISE
+https://tv-e-okul02.medya.trt.com.tr/master_720.m3u8s
+
+#EXTINF:-1, tvg-id="TRT EBATV ORTAOKUL" tvg-logo="http://izmottvsc07.tvplus.com.tr:33200/CPS/images/universal/film/logo/202003/20200325/20200325080220534wxz_op.png" tvg-name="TRT EBATV ORTAOKUL" group-title="EGITIM",TRT EBA ORTAOKUL
+https://tv-e-okul01.medya.trt.com.tr/master_720.m3u8
+
+#EXTINF:-1, tvg-id="TRT HABER HD" tvg-logo="http://izmottvsc07.tvplus.com.tr:33200/CPS/images/universal/film/poster/20140406/001300/001300000008479195/05852430-0c9c-455d-ace1-cc3b16e203da.png" tvg-name="TRT HABER HD" group-title="HABER",TRT HABER
+https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
+
+#EXTINF:-1, tvg-id="TRT SPOR HD" tvg-logo="http://izmottvsc07.tvplus.com.tr:33200/CPS/images/universal/film/logo/202201/20220110/78/20220110135426898oyk_op.png" tvg-name="TRT SPOR HD" group-title="SPOR",TRT SPOR
+https://tv-trtspor1.medya.trt.com.tr/master_720.m3u8
+
+#EXTINF:-1, tvg-id="TRT SPOR YILDIZ" tvg-logo="http://izmottvsc07.tvplus.com.tr:33200/CPS/images/universal/film/logo/202112/20211203/39/202112031039066553c6_op.png" tvg-name="TRT SPOR YILDIZ" group-title="SPOR",TRT SPOR YILDIZ
+https://tv-trtspor2.medya.trt.com.tr/master_720.m3u8
+
+#EXTINF:-1, tvg-id="TV 4" tvg-logo="http://izmottvsc07.tvplus.com.tr:33200/CPS/images/universal/film/logo/202202/20220215/27/202202151041436638ug_op.png" tvg-name="TV 4" group-title="ULUSAL",TV4
+https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
+
+#EXTINF:-1, tvg-id="TV8 HD" tvg-logo="http://izmottvsc07.tvplus.com.tr:33200/CPS/images/universal/film/poster/20170121/001300/XTV100000413/f89f537c-dbb5-46ce-894c-bcb309811611.png" tvg-name="TV8 HD" group-title="ULUSAL",TV8
+https://tv8-live.daioncdn.net/tv8/tv8_1080p.m3u8
+
+#EXTINF:-1, tvg-id="TV100" tvg-logo="http://izmottvsc07.tvplus.com.tr:33200/CPS/images/universal/film/poster/fileEntity/20190531/001300/XTV100001076/c376fe0f-f92d-4e49-aae1-08d2effb5ec8.png" tvg-name="TV100" group-title="HABER",TV 100
+https://tv100.blutv.com/blutv_tv100_live/live.m3u8
